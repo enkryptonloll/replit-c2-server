@@ -1,0 +1,9 @@
+{
+  "broadcast": [
+    "systeminfo",
+    "whoami",
+    "hostname",
+    "ipconfig"
+  ],
+  "scheduled": []
+}
