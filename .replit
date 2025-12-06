@@ -1,0 +1,16 @@
+# .replit
+run = "python main.py"
+language = "python3"
+entrypoint = "main.py"
+
+[packager]
+language = "python3"
+
+[packager.features]
+packageSearch = true
+guessImports = true
+
+[env]
+PORT = "8080"
+REPLIT_DB_URL = ""
+PYTHONUNBUFFERED = "true"
